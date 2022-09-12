@@ -1,0 +1,301 @@
+*/ *,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.textCol {
+  margin: auto 0px;
+}
+
+.buttonsection {
+  font-size: 16px;
+  font-weight: 400;
+  width: 20%;
+  color: #fff;
+  background: #000;
+  padding: 0.9rem 1.75rem;
+  border-radius: 0 10px;
+  margin-top: 1.2rem;
+}
+
+.firstSectionH1 {
+  font-weight: bold;
+}
+
+.FirstSection {
+  margin-top: 2.6rem;
+}
+
+.secondSection {
+  margin-top: 5rem;
+}
+.secondSectionH1 {
+  text-align: center;
+
+  font-weight: bold;
+}
+
+.secondSectionContainer {
+  margin-top: 4rem;
+}
+
+.secondSectionH1colText {
+  margin-top: 4rem;
+}
+
+.thirdSection {
+  margin-top: 3rem;
+}
+
+.ThirdSectionH1colText {
+  margin-top: 4rem;
+}
+.thirdcolText {
+  margin-top: 6rem;
+}
+.fouthSection {
+  margin-top: 5rem;
+}
+.fouthcolText {
+  margin-top: 6.5rem;
+}
+
+h2 {
+  font-weight: bolder;
+}
+.fivthSection {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.footerHand3 {
+}
+
+/* Tec Section Start  */
+.tecSection {
+  border: 2px solid #f0f0f0;
+  border-radius: 12px 0;
+  background-color: #f0f0f0;
+}
+
+.btn {
+  border: 1px solid #000;
+  border-radius: 19px 0;
+  color: #f0f0f0;
+  background: #000;
+  text-align: center;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  width: 70%;
+  height: 80%;
+}
+
+.btn:hover {
+  background: none;
+}
+.tecRow1 {
+  margin-bottom: 3rem;
+}
+
+.tecRow2 {
+  margin-bottom: 3rem;
+}
+
+.tecRow3 {
+  margin-bottom: 1rem;
+}
+
+.tech2 {
+  font-weight: 900;
+}
+/* Tec Section End  */
+
+/* make section start */
+.makeh2 {
+  font-weight: 900;
+}
+.makeRow1 {
+  margin-top: 7rem;
+  margin-bottom: 3rem;
+}
+.makeRow2 {
+  margin-bottom: 3rem;
+}
+.makeRow3 {
+  margin-bottom: 1rem;
+}
+/* make section end */
+
+/* Sell section start */
+
+.sellh1 {
+  font-weight: 900;
+}
+.sellSection {
+  margin-top: 4rem;
+  /* border: 2px solid #f0f0f0; */
+  border-radius: 19px 0;
+  /* background-color: #f0f0f0; */
+}
+
+.btn {
+  border: 1px solid #000;
+  border-radius: 19px 0;
+  color: #f0f0f0;
+  background: #000;
+  text-align: center;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  width: 70%;
+  height: 80%;
+}
+
+.btn:hover {
+  background: none;
+}
+.sellRow1 {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+.sellRow2 {
+  margin-bottom: 3rem;
+}
+
+.sellRow3 {
+  margin-bottom: 3rem;
+}
+
+.sellRow4 {
+  margin-bottom: 2rem;
+}
+/*sell section end */
+.threeSection {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+/* three section end */
+/* together section start  */
+.togetherh1 {
+  font-weight: 900;
+}
+.togetherRow1 {
+  margin-top: 7rem;
+  margin-bottom: 3rem;
+}
+.togetherRow2 {
+  margin-bottom: 3rem;
+}
+.togetherRow3 {
+  margin-bottom: 1rem;
+}
+
+.togetherRow4 {
+  margin-bottom: 1rem;
+}
+.togetherRow5 {
+  margin-bottom: 1rem;
+}
+/* together section end  */
+
+.footerSections {
+  margin-top: 5rem;
+}
+.paws {
+  justify-content: center;
+}
+.icons {
+  margin-bottom: 5rem;
+  justify-content: center;
+  margin-right: 4.5rem;
+}
+.text {
+  text-align: center;
+}
+/* Blogs Design */
+.blogContainer {
+  margin-top: 4rem;
+  margin-bottom: 8rem;
+}
+.containerh3 {
+  font-weight: 900;
+}
+.blogBtn {
+  background: rgb(93, 93, 195);
+  color: #fff;
+  border: 2px solid rgb(93, 93, 195);
+  border-radius: 12px 0px;
+  width: 20%;
+}
+
+.blogRow2 {
+  margin-top: 3rem;
+}
+.blogBtn1 {
+  margin-top: 2rem;
+  background: rgb(93, 93, 195);
+  color: #fff;
+  border: 2px solid rgb(93, 93, 195);
+  border-radius: 12px 0px;
+  width: 40%;
+  height: 70%;
+}
+.blogBtn1:hover {
+  background: none;
+  color: #000;
+  border: 1px solid rgb(93, 93, 195);
+}
+.thingsKnow {
+  margin-top: 1rem;
+}
+.signUp {
+  margin-top: 4rem;
+  border: 2px solid #f0f0f0;
+  border-radius: 0px 90px;
+  background: #f0f0f0;
+}
+.inputButton {
+  height: 100%;
+}
+
+.input {
+  border: #000 2px solid;
+  border-radius: 12px 0px;
+}
+
+.inputButton {
+  border: #000 2px solid;
+  border-radius: 12px 0px;
+  background: #000;
+  color: #fff;
+  height: 100%;
+}
+.signUp1 {
+  margin-top: 5rem;
+}
+/* .signUp2 {
+  margin-bottom: 3rem;
+} */
+.signUp3 {
+  margin-bottom: 5rem;
+}
+.Row {
+  border: #000 2px solid;
+}
+/*------------------------ Blog end -------------------------------------------------- */
+
+/*----------------------------------- media query------------------------------------- */
+
+@media (max-width: 760px) {
+  img.rowHand {
+    display: none;
+  }
+  .text {
+    font-size: 15px;
+    font-weight: 400;
+  }
+  /* .bitimg {
+    border: #000 2px solid;
+  } */
+}

@@ -1,0 +1,81 @@
+*/ *,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+.coderBlog {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.coderBtn {
+  border: 1px solid rgb(77, 119, 132);
+  border-radius: 0px 12px;
+  background: rgb(77, 119, 132);
+  margin: 0.8rem;
+  height: auto;
+  padding: 0.5rem;
+}
+
+.row1 {
+  margin-top: 3rem;
+}
+.row2 {
+  padding: 0.6rem;
+}
+.illRow {
+  margin-top: 3rem;
+}
+.rowP {
+  font-weight: 500;
+  margin-top: 2rem;
+}
+.codeRow {
+  margin-top: 3rem;
+  font-weight: 900;
+}
+
+.beginRow {
+  margin-top: 0.9rem;
+  font-weight: 600;
+}
+.exampleRow {
+  margin-top: 3rem;
+  font-weight: 600;
+  background: #f2f2f3;
+  border-radius: 0px 19px;
+}
+
+.addCol {
+  margin-top: 3rem;
+}
+.atCol {
+  font-weight: 500;
+}
+.step6Row {
+  margin-top: 3rem;
+  font-weight: 500;
+  margin-bottom: 3rem;
+}
+.borderRow {
+  margin-bottom: 2rem;
+  border-bottom: 3px solid #f0f0f0;
+}
+.readRow {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  font-weight: 900;
+  font-size: 2.5rem;
+}
+.illRow {
+  color: grey;
+  text-decoration: underline;
+}
+.imgIcon {
+  width: 3.5%;
+  margin-bottom: 0.5rem;
+  height: auto;
+  cursor: pointer;
+}

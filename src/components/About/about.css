@@ -1,0 +1,47 @@
+.ul_items {
+  margin: auto 0px;
+  padding: 0.7rem;
+
+  width: 100%;
+}
+.li_list {
+  display: inline-block;
+  text-decoration: none;
+  margin: 0.8rem;
+  padding: 6px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.link_file_1 {
+  text-decoration: none;
+  list-style: none;
+  color: purple;
+  text-align: center;
+}
+
+.link_file_2 {
+  text-decoration: none;
+  list-style: none;
+  color: purple;
+  text-align: center;
+}
+
+.link_file_3 {
+  text-decoration: none;
+  list-style: none;
+  color: purple;
+  text-align: center;
+}
+
+.link_file_1:hover {
+  border-bottom: 2px solid purple;
+}
+
+.link_file_2:hover {
+  border-bottom: 2px solid purple;
+}
+
+.link_file_3:hover {
+  border-bottom: 2px solid purple;
+}

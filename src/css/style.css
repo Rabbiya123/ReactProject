@@ -1,0 +1,41 @@
+.my_div {
+  border: 2px solid green;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 500px;
+  background: lightgray;
+}
+.h1_tag {
+  text-align: center;
+  margin: 0.9rem;
+}
+.my_lable {
+  font-weight: 700;
+  font-size: 20px;
+  padding: 0.8rem;
+  margin: 0.8rem;
+}
+.my_input {
+  font-weight: 500;
+  font-size: 20px;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  width: 60%;
+}
+
+.btn {
+  padding: 0.4rem;
+  margin: 0.4rem;
+  margin-left: 0.5rem;
+  width: 40%;
+  border-radius: 2rem;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.ul_items {
+  display: inline-block;
+}
