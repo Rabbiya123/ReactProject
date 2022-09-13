@@ -4,7 +4,20 @@
   box-sizing: border-box;
 }
 
-.textCol {
+.mainDiv {
+  margin: 0.9rem;
+  border: 2px solid red;
+  width: 20%;
+  border-radius: 5px;
+}
+.myText {
+  text-align: center;
+}
+.myImg {
+  width: 100%;
+  height: auto;
+}
+/* .textCol {
   margin: auto 0px;
 }
 
@@ -73,7 +86,7 @@ h2 {
 }
 
 /* Tec Section Start  */
-.tecSection {
+/* .tecSection {
   border: 2px solid #f0f0f0;
   border-radius: 12px 0;
   background-color: #f0f0f0;
@@ -108,11 +121,11 @@ h2 {
 
 .tech2 {
   font-weight: 900;
-}
+} */
 /* Tec Section End  */
 
 /* make section start */
-.makeh2 {
+/* .makeh2 {
   font-weight: 900;
 }
 .makeRow1 {
@@ -129,17 +142,17 @@ h2 {
 
 /* Sell section start */
 
-.sellh1 {
+/* .sellh1 {
   font-weight: 900;
 }
 .sellSection {
   margin-top: 4rem;
-  /* border: 2px solid #f0f0f0; */
+  border: 2px solid #f0f0f0;
   border-radius: 19px 0;
-  /* background-color: #f0f0f0; */
-}
+  background-color: #f0f0f0;
+} */
 
-.btn {
+/* .btn {
   border: 1px solid #000;
   border-radius: 19px 0;
   color: #f0f0f0;
@@ -149,9 +162,9 @@ h2 {
   padding: 0.5rem;
   width: 70%;
   height: 80%;
-}
+} */
 
-.btn:hover {
+/* .btn:hover {
   background: none;
 }
 .sellRow1 {
@@ -161,15 +174,15 @@ h2 {
 
 .sellRow2 {
   margin-bottom: 3rem;
-}
+} */
 
-.sellRow3 {
+/* .sellRow3 {
   margin-bottom: 3rem;
 }
 
 .sellRow4 {
   margin-bottom: 2rem;
-}
+}  */
 /*sell section end */
 .threeSection {
   margin-top: 3rem;
